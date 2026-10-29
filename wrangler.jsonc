@@ -1,0 +1,12 @@
+{
+  "name": "pumpkin-playlist-bot",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-29",
+  "workers_dev": true,
+  "vars": {
+    "PLAYLIST_UUID": "7f245f47-ab83-0ca6-96b1-e2f6f2027bd3",
+    "ALLOWED_CHAT_IDS": "-5552881767",
+    "ALLOWED_USER_IDS": "",
+    "BOT_USERNAME": "YAMusicPack_bot"
+  }
+}
