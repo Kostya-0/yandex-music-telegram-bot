@@ -1,0 +1,13 @@
+{
+  "name": "my-music-playlist-bot",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-29",
+  "workers_dev": true,
+  "preview_urls": false,
+  "vars": {
+    "PLAYLIST_UUID": "REPLACE_WITH_YOUR_PLAYLIST_UUID",
+    "BOT_USERNAME": "REPLACE_WITH_YOUR_BOT_USERNAME",
+    "ALLOWED_CHAT_IDS": "",
+    "ALLOWED_USER_IDS": ""
+  }
+}
